@@ -16,3 +16,10 @@ This is a AI generated and human edited code. no liability lisence, done for fun
 5. server requests recall API snapshots and maybe sorrs or displays to player what one to pick
 
 6. ..., 
+
+
+my game uses ndk c++ to make pgs calls but some java is unavoidable in android but still can use curl within pgs, some more advanced features would be spawning a background service and using gni and jni etc..
+
+here is the reference doc of whats being done:
+
+https://developer.android.com/games/pgs/recall/recall-setup#java
